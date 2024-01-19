@@ -1,0 +1,19 @@
+/* src/App.css */
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .transactions-table {
+    margin-top: 20px;
+  }
+  
+  .transactions-statistics {
+    margin-top: 20px;
+  }
+  
+  .transactions-bar-chart {
+    margin-top: 20px;
+  }
+  
